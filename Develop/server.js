@@ -55,7 +55,11 @@ app.delete("/api/notes/:id", (req, res) => {
         err ? console.log(err) : console.log(`Successfully deleted ${id} from db.json`);
     });
     res.send("Successfully written to db");
-})
+});
+
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "./public/index.html"));
+});
 
 // start listening for requests
 app.listen(PORT, () => {
