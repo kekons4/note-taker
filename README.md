@@ -25,3 +25,35 @@ User can create and delete notes.
 ![Screenshot_four](/Assets/screenshot_four.png)
 
 ##### Screenshot showing contents existing note
+
+## Installation
+
+You can install this project via https://github.com/kekons4/note-taker.git
+Technology used: node.js
+libraries used: express
+
+## Usage
+
+to execute project, run 'node index.js'
+
+## license
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+Keon Pourboghrat : https://github.com/kekons4
+
+## Testing
+
+Tested all use cases and edge cases and runs as expected
+
+## Questions
+
+If you have any questions about the projects please contact me at anyone of the ways below.
+
+    Github Username: kekons4
+
+    Github profile link: https://github.com/kekons4
+
+    Email: kekons4@gmail.com
