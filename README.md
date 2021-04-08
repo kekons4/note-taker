@@ -17,3 +17,7 @@ User can create and delete notes.
 ![Screenshot_two](/Assets/screenshot_two.png)
 
 ##### Screenshot of notes.html
+
+![Screenshot_three](/Assets/screenshot_three.png)
+
+##### Screenshot of creating note
