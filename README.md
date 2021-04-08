@@ -8,6 +8,8 @@ In this project the user can create notes with a title and description on a fron
 application. Notes are servered via node.js backend which stores them on .json file.
 User can create and delete notes.
 
+Link to Heroku deployed app: https://quiet-temple-38812.herokuapp.com/
+
 ## Screenshots
 
 ![Screenshot_one](/Assets/screenshot_one.png)
